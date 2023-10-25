@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello friend 👋
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/839577679656910859)](https://discord.com/users/839577679656910859)
 
 <!--
 **iDisaster/iDisaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
